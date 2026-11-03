@@ -1,0 +1,9 @@
+{
+  "appId": "com.loquete.lagrimas",
+  "appName": "Lagrimas",
+  "webDir": "www",
+  "backgroundColor": "#000000",
+  "android": {
+    "allowMixedContent": false
+  }
+}
